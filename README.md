@@ -17,4 +17,6 @@ You can (un)check ppl to quickly add / remove them
 
 # Issues
 
-If you see any errors, please submit a bug request or contact me directly ingame - `Divinebanana-BurningLegion`.
+If you see any errors, please submit a bug request or contact me directly ingame:
+
+- `Divinebanana-BurningLegion`.
