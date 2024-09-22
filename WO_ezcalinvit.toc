@@ -1,14 +1,13 @@
-## Interface: 90205
-## Title: |cffffbb00WO|cffffffffEZ Calendar Invit|r
+## Interface: 110002
+## Title: |cffffbb00WO|cffffffffEZ Calendar Invit REBORN|r
 ## Notes: Easy manage guild invitations to calendar
-## Author: woOtzee
+## Author: woOtzee + divinebanana (fix)
 
-## Version: 3.8
+## Version: 3.9
 ## X-Category: Raid, Calendar, Guild, Communication
 ## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
 ## X-Website: https://www.curseforge.com/wow/addons/wo-ez-calendar-guild-invits
-## X-Curse-Project-ID: 357503
-## X-Wago-ID: RBKpbaNE
+## X-Curse-Project-ID: 1107312
 
 ## SavedVariables: WO_ez_DB
 ## SavedVariablesPerCharacter: WO_ez_DBC
