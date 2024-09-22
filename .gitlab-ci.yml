@@ -1,0 +1,13 @@
+stages:
+  - deploy
+
+🚀 publish addon:
+  stage: deploy
+  only:
+    - tags
+  script:
+    - apt-get update -y
+    - apt-get install -y curl zip jq
+    - curl -o release.sh https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh
+    - chmod +x ./release.sh
+    - ./release.sh
