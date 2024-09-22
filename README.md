@@ -2,6 +2,8 @@
 
 This is an updated version of the addon [🖖️ Easy Calendar Invit](https://www.curseforge.com/wow/addons/wo-ez-calendar-guild-invits) by `wo_tzee`, that works with The War Within expansion. I do not take any rights for the code, just doing some fixes to make this up and running again. Hopefully the author will fix his original addon some time into the future 🤞🏻.
 
+> YOU NEED TO REMOVE THE OLD ADDON FOR THIS TO WORK. BOTH PROJECTS ARE USING THE SAME NAMESPACE.
+
 ## Addon Description
 
 Light addon to (re)view a guildies list, right next to the event in calendar.
